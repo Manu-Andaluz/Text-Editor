@@ -1,1 +1,1 @@
-Text editor made with Rust
+Text editor made with Rust.
